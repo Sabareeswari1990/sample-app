@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: user-service
+  description: Handles user login and profile
+spec:
+  type: service
+  owner: team-users
